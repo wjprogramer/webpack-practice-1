@@ -6,7 +6,7 @@
   "author": "Jay Wu",
   "license": "MIT",
   "scripts": {
-    "build": "npx webpack"
+    "build": "webpack"
   },
   "dependencies": {
     "lodash": "^4.17.21"
