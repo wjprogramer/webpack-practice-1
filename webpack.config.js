@@ -6,10 +6,10 @@ module.exports = {
     index: './src/index.js',
     print: './src/print.js',
   },
-  mode: 'development',
+  mode: 'development', // need add
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Output Management',
+      title: 'Development',
     }),
   ],
   output: {
